@@ -1,2 +1,3 @@
 # Chordilly
 App for Chorded Instrument Learners
+The app is to help the learners of chorded musical instruments to search for suitable songs to play based on the chords they learn. The app therefore is named “Chordilly”. Whenever someone learns a new chorded instrument it is quite evident that he/she is curious to experiment with chords by learning to play songs that use the chords they just learnt and wish to have a list of such songs at one place. The app prompts the learner to enter chords in a search bar and a library of songs that use some or all of the chords entered will be instantly displayed as a result. The app is for iOS devices and is made using SwiftUI language.
